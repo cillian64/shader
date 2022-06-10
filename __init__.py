@@ -1,4 +1,4 @@
-from tidal import *
+from tidal import JOY_CENTRE, BUTTON_A, BUTTON_B, display, MAGENTA, CYAN
 from app import MenuApp
 import st7789
 import os
